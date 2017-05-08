@@ -1,4 +1,4 @@
-# 问题集（一）
+# 问题集（一）
 ## github是什么？
 GitHub is a web-based Git or version control repository and Internet hosting service. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project.
 ## git是什么？
@@ -88,12 +88,12 @@ Like the Linux kernel, Git is free software distributed under the terms of the G
 	--Ctrl + c, Ctrl + d(2者有所不同, 不在这细说)
 
 ## 24.	使用命令行比GUI方式有何优势  
-	* 根本上: 一些功能在GUI中是无法实现的, 
-	*	其次:	命令行的效率要高于GUI.
+* 根本上: 一些功能在GUI中是无法实现的, 
+* 其次:	命令行的效率要高于GUI.
 
 ## 25.	提交到本地仓库时为什么有暂存区  
-	* 作为缓存, 提高了效率,
-	* 细化一次提交, 划分版本, 多一层确认保障.
+* 作为缓存, 提高了效率,
+* 细化一次提交, 划分版本, 多一层确认保障.
 
 ## 26.	新建代码仓库的命令  
 	--github-create REPO_NAME
@@ -111,8 +111,8 @@ Like the Linux kernel, Git is free software distributed under the terms of the G
 	--git mv [file-original] [file-renamed]
 
 ## 31.	提交暂存区到仓库的命令  
-	* git commit -m "XXXX", 
-	*  git commit 后进入记事本输入相应的"XXXX" 
+* git commit -m "XXXX", 
+* git commit 后进入记事本输入相应的"XXXX" 
 
 ## 32.	直接从工作区提交到仓库的命令  
 	-- git add NAME_OF_FILE | git commit -m "SOME_MESSAGE"
